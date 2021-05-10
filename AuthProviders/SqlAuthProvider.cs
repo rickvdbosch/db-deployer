@@ -5,7 +5,7 @@ using Microsoft.SqlServer.Dac;
 
 namespace DbDeployer.AuthProviders
 {
-    public class BugsAuthProvider : IUniversalAuthProvider
+    public class SqlAuthProvider : IUniversalAuthProvider
     {
         #region Constants
 
